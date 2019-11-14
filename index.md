@@ -12,3 +12,4 @@
 - Azure SQL Data Warehouse feed into Power BI: <https://azure.microsoft.com/en-gb/services/sql-data-warehouse/>
 - Power BI Governance and Deployment whitepaper: <https://docs.microsoft.com/en-gb/power-bi/service-admin-governance>
 - Power BI whitepapers from Microsoft: <https://docs.microsoft.com/en-gb/power-bi/whitepapers>
+- Power BI project good and best practices: <https://sqlserverbi.blog/2019/08/24/power-bi-project-good-and-best-practices/>
