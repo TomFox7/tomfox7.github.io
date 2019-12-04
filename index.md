@@ -8,11 +8,14 @@
   
 ### Resources and standards for Power BI deployment and projects
 
-- [Power BI end-to-end features diagram](https://www.coatesdatastrategies.com/s/PowerBIEndToEndDiagram_MelissaCoates.pdf)
-- [Azure Synapse (Azure SQL Data Warehouse) feed into Power BI](https://azure.microsoft.com/en-gb/services/sql-data-warehouse/)
-- [Power BI Governance and Deployment whitepaper](https://docs.microsoft.com/en-gb/power-bi/service-admin-governance)
+- 2019-11 [Power BI end-to-end features diagram](https://www.coatesdatastrategies.com/s/PowerBIEndToEndDiagram_MelissaCoates.pdf)
+- [Azure Synapse Analytics (Azure SQL Data Warehouse) feed into Power BI](https://azure.microsoft.com/en-gb/services/synapse-analytics/)
+- 2018-07 [Power BI Governance and Deployment whitepaper](https://docs.microsoft.com/en-gb/power-bi/service-admin-governance)
 - [Power BI list of whitepapers from Microsoft](https://docs.microsoft.com/en-gb/power-bi/whitepapers)
-- [Power BI project good and best practices](https://sqlserverbi.blog/2019/08/24/power-bi-project-good-and-best-practices/)
-- [Checklist for Finalizing a Data Model in Power BI Desktop](https://www.sqlchick.com/entries/2017/12/23/checklist-for-finalizing-a-data-model-in-power-bi-desktop)
-- [Automated Testing for Power BI using Dax Studio](https://powerpivotpro.com/2018/09/automated-testing-using-dax-for-power-bi/)
+- 2019-08 [Power BI project good and best practices](https://sqlserverbi.blog/2019/08/24/power-bi-project-good-and-best-practices/)
+- 2019-10 [Power BI cheat-sheet by Macaw](https://bit.ly/cheatsheetpbi)
+- 2017-12 [Checklist for Finalizing a Data Model in Power BI Desktop](https://www.sqlchick.com/entries/2017/12/23/checklist-for-finalizing-a-data-model-in-power-bi-desktop)
+- 2018-09 [Automated Testing for Power BI using Dax Studio](https://powerpivotpro.com/2018/09/automated-testing-using-dax-for-power-bi/)
 - [Power BI Sentinel - a DevOps tool for Power BI](https://www.powerbisentinel.com/power-bi-devops/)
+- 2018-12 [Publishing Power BI resources via Azure DevOps](https://msftplayground.com/2018/12/administrating-and-publishing-power-bi-resources-via-azure-devops/)
+- 2019-11 [Versioning and CI+CD for Power BI with Azure DevOps](https://data-marc.com/2019/11/12/versioning-and-ci-cd-for-power-bi-with-azure-devops/)
