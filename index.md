@@ -20,3 +20,7 @@
 - 2018-12 [Publishing Power BI resources via Azure DevOps](https://msftplayground.com/2018/12/administrating-and-publishing-power-bi-resources-via-azure-devops/)
 - 2019-11 [Versioning and CI+CD for Power BI with Azure DevOps](https://data-marc.com/2019/11/12/versioning-and-ci-cd-for-power-bi-with-azure-devops/)
 - 2019-11 [Power BI DevOps CD+CI pipelines Ignite preview, due March 2020](https://myignite.techcommunity.microsoft.com/sessions/83502?source=sessions)
+
+
+### About me
+[Tom Fox on LinkedIn](https://www.linkedin.com/in/tomfox247/)
