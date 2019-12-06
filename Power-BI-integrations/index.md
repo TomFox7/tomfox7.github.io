@@ -1,4 +1,4 @@
-![Power BI end-to-end features](https://tomfox7.github.io/Power-BI-integrations/images/PowerBIEndToEndDiagram_MelissaCoates.png)
+![Power BI end-to-end features](https://beyondpowerbi.com/Power-BI-integrations/images/PowerBIEndToEndDiagram_MelissaCoates.png)
 ([downloaded from here](https://www.coatesdatastrategies.com/diagrams))
 
 
@@ -40,7 +40,7 @@
 - 2019-04 [Dataflows and Azure Data Lake integration](https://docs.microsoft.com/en-gb/power-bi/service-dataflows-azure-data-lake-integration)
 - 2018-12 [Azure Data Services, CDM integration and Power BI to unlock insights](https://azure.microsoft.com/en-us/blog/power-bi-and-azure-data-services-dismantle-data-silos-and-unlock-insights/)
 
-![PowerBI with CDM in ADLS and Azure Data Services](https://tomfox7.github.io/Power-BI-integrations/images/PowerBIwithCDMinADLSandAzureDataServices.png)
+![PowerBI with CDM in ADLS and Azure Data Services](https://beyondpowerbi.com/Power-BI-integrations/images/PowerBIwithCDMinADLSandAzureDataServices.png)
 
 - 2019-08 [Azure Data Services ETL/ELT and Databricks into Power BI](https://www.blue-granite.com/blog/retail-analytics-product-dimension-load-pattern-using-azure-databricks)
 - 2019-09 [Dataflows best practices](https://docs.microsoft.com/en-us/power-bi/service-dataflows-best-practices)
