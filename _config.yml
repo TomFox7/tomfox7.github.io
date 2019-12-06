@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Tom Fox's Power BI and Azure data references
 description: Power BI samples, DAX patterns, data models, Azure Data Services, etc.
 google_analytics: UA-47157029-2
+url: "https://beyondpowerbi.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
