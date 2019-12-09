@@ -1,4 +1,5 @@
-![Power BI end-to-end features](https://beyondpowerbi.com/Power-BI-integrations/PowerBIEndToEndDiagram_MelissaCoates.png)
+## Power BI end-to-end features
+  ![Power BI end-to-end features](https://beyondpowerbi.com/Power-BI-integrations/PowerBIEndToEndDiagram_MelissaCoates.png)
 ([downloaded from here](https://www.coatesdatastrategies.com/diagrams))
 
 
@@ -83,3 +84,6 @@
 
 - 2019-11 [From Azure Databricks into Power BI](https://docs.microsoft.com/en-gb/azure/databricks/bi/power-bi)
 - 2019-04 [Push data frame from Azure DataBricks (Spark) into Power BI](https://adatis.co.uk/injecting-databricks-dataframe-into-a-power-bi-push-dataset/)
+
+### Return to: 
+[Top](#power-bi-end-to-end-features)  [Home](https://beyondpowerbi.com/)
