@@ -30,4 +30,5 @@
 - [Power BI composite models by Prologika](https://prologika.com/power-bi-composite-models-the-good-the-bad-the-ugly/)
 - [Understanding Power BI dual storage by Prologika](https://prologika.com/understanding-power-bi-dual-storage/)
 
-Return to: [Top](#aggregations)  [Home](https://beyondpowerbi.com/)
+### Return to: 
+[Top](#aggregations)  [Home](https://beyondpowerbi.com/)
