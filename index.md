@@ -1,8 +1,9 @@
-### Some amazing Power BI demonstrations
+## Some amazing Power BI demonstrations
 
 - [GapMinder data presented in Power BI](https://beyondpowerbi.com/PowerBI-samples-GapMinder/) 
   from gapminder.org/data/ and the Roslings' book 'Factfulness' ref. [here](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think).
-- A pattern is a general reusable solution to a commonly occurring problem.  [DAX patterns and Data Models illustrated in Power BI](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/), adapted into Power BI from Excel examples by SQLBI at daxpatterns.com
+- A pattern is a general reusable solution to a commonly occurring problem.  
+  [DAX patterns and Data Models illustrated in Power BI](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/), adapted into Power BI from Excel examples by SQLBI
 - [PowerBI aggregations and composite models](https://beyondpowerbi.com/PowerBI-aggregations-composite-models/) - arguably the most impressive new features released in 2018.
 - [Beyond Power BI: samples of data sources, Power BI embedded and other services](https://beyondpowerbi.com/Power-BI-integrations)
   
