@@ -14,7 +14,7 @@ Here is the *live* version in Power BI Service where you can 'play' the time axi
   </style>
   
  This snapshot is for a single year 2015:
-![GapMinder_screenshot_for_2015](https://tomfox7.github.io/PowerBI-samples-GapMinder/images/countries_health_wealth_2016_v151.png)
+![GapMinder_screenshot_for_2015](https://beyondpowerbi.com/Power-BI-samples-GapMinder/countries_health_wealth_2016_v151.png)
 ([downloaded from here](https://www.gapminder.org/downloads/updated-gapminder-world-poster-2015/))
  
 
@@ -30,7 +30,7 @@ The main purpose of Power BI is to present data in a persuasive way, to inform g
 ## Technical notes on using Power BI ##
 
 The data model in Power BI is quite simple: the two dimension tables are used to filter the one fact table.
-![Power BI_data_model_screenshot](https://tomfox7.github.io/PowerBI-samples-GapMinder/images/GapMinder_data_model_in_PowerBI.png)
+![Power BI_data_model_screenshot](https://beyondpowerbi.com/Power-BI-samples-GapMinder/GapMinder_data_model_in_PowerBI.png)
 
 The DAX calculations needed some care: the data are measurements taken over time (year to year) and so they are not additive.  They can only be aggregated in a given year (using SELECTEDVALUE) and calculating weighted averages, not sums or means.  For example:
 
