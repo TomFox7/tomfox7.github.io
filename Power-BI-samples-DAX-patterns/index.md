@@ -141,4 +141,4 @@ More about patterns for data models:
     - [Calculating Pearson Correlation Coefficient using DAX](https://blog.gbrueckl.at/2015/06/calculating-pearson-correlation-coefficient-dax/)
 
 ### Return to: 
-[Top](#why-data-models-and-dax-patterns?)  [Home](https://beyondpowerbi.com/)
+[Top](#why-data-models-and-dax-patterns)  [Home](https://beyondpowerbi.com/)
