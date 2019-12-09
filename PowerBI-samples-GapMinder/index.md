@@ -54,3 +54,6 @@ Wt.Avg. GDP/Lifespan = CALCULATE (
 For more information on Data Models and DAX for 'snapshots of time-series data' see [chapter 6 in Analyzing Data with Power BI and Power Pivot for Excel, 2017 by Alberto Ferrari and Marco Russo](https://www.sqlbi.com/books/analyzing-data-with-microsoft-power-bi-and-power-pivot-for-excel/).
 
 The menu on the front page (and the return Home buttons) use Bookmarks.  The Regional slicers are synchronised across several charts.  The population chart uses a custom visual 'HierarchySlicer' for selection of Regions or Countries.
+
+### Return to: 
+[Top](#gapminder-data-presented-in-power-bi)  [Home](https://beyondpowerbi.com/)
