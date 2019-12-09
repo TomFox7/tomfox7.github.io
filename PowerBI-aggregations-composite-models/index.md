@@ -29,3 +29,5 @@
   - 2019-02 [on YouTube](https://www.youtube.com/watch?v=fLP87AXWZzw) (51 mins)
 - [Power BI composite models by Prologika](https://prologika.com/power-bi-composite-models-the-good-the-bad-the-ugly/)
 - [Understanding Power BI dual storage by Prologika](https://prologika.com/understanding-power-bi-dual-storage/)
+
+Return to: [Top](#aggregations)  [Home](https://beyondpowerbi.com/)
