@@ -25,3 +25,6 @@
 
 ### About me
 [Tom Fox on LinkedIn](https://www.linkedin.com/in/tomfox247/)
+
+### About Power BI
+![Microsoft Power BI main page](images/power-bi-logo.png)
