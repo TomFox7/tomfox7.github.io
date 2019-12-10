@@ -8,7 +8,8 @@ The design purpose should guide the selection of which Power BI visuals to use.
 
 - [Visual Business Intelligence for enlightening analysis and communication by Stephen Few](http://www.perceptualedge.com/)
 
-- [FT Visual vocabulary Power BI edition (blog)](http://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html)
+- [FT Visual vocabulary Power BI edition by SqlJason.com](http://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html)
+  - ![](visual-vocabulary-power-bi-edition-by-SqlJason.gif)
 
   - [Link to full-screen PBI online version](https://app.powerbi.com/view?r=eyJrIjoiMDA4YWIwZWEtMDE3ZS00YmFhLWE5YWMtODFlZWEzNTU1ODNiIiwidCI6IjZjMGE1YjljLTA4OWEtNDk0ZS1iMDVlLTcxNjEwOTgyOTA0NyIsImMiOjF9 "click to follow link")
 
