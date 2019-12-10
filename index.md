@@ -5,7 +5,8 @@
 - A pattern is a general reusable solution to a commonly occurring problem.  
   [DAX patterns and Data Models illustrated in Power BI](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/), adapted into Power BI from Excel examples by SQLBI
 - [PowerBI aggregations and composite models](https://beyondpowerbi.com/Power-BI-aggregations-composite-models/) - arguably the most impressive new features released in 2018.
-- [Beyond Power BI: samples of data sources, Power BI embedded and other services](https://beyondpowerbi.com/Power-BI-integrations)
+- [Power BI Integrations: samples of data sources, Power BI embedded and other services](https://beyondpowerbi.com/Power-BI-integrations)
+- [Power BI Design and Visualizations](https://beyondpowerbi.com/Power-BI-Design-and-Visualizations) for purpose-driven visualizations
   
 ### Resources and standards for Power BI deployment and projects
 
