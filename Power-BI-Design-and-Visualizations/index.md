@@ -8,12 +8,6 @@ The design purpose should guide the selection of which Power BI visuals to use.
 
 - [Visual Business Intelligence for enlightening analysis and communication by Stephen Few](http://www.perceptualedge.com/)
 
-- [FT Visual vocabulary Power BI edition by SqlJason.com](http://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html)
-
-  ![](visual-vocabulary-power-bi-edition-by-SqlJason.gif)
-  
-  - [Link to full-screen PBI online version](https://app.powerbi.com/view?r=eyJrIjoiMDA4YWIwZWEtMDE3ZS00YmFhLWE5YWMtODFlZWEzNTU1ODNiIiwidCI6IjZjMGE1YjljLTA4OWEtNDk0ZS1iMDVlLTcxNjEwOTgyOTA0NyIsImMiOjF9 "click to follow link")
-
 
 ### Power BI bookmarks
 
@@ -25,11 +19,24 @@ The design purpose should guide the selection of which Power BI visuals to use.
 
 ## Power BI visualizations by category
 
+- FT Chart Doctor Visual Vocabulary
+
+  - [FT Visual vocabulary on GitHub](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
+  
+  - [FT Visual vocabulary Power BI edition by SqlJason.com](http://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html)
+  
+  [FT-vv-pbix]: https://app.powerbi.com/view?r=eyJrIjoiMDA4YWIwZWEtMDE3ZS00YmFhLWE5YWMtODFlZWEzNTU1ODNiIiwidCI6IjZjMGE1YjljLTA4OWEtNDk0ZS1iMDVlLTcxNjEwOTgyOTA0NyIsImMiOjF9
+  - [Link to full-screen PBI online version][FT-vv-pbix]
+  
+  [![Visual vocabulary in Power BI](FT-visual-vocabulary-in-Power-BI-by-SqlJason.gif)][FT-vv-pbix]
+
+
+
 - [2018-10 Power BI visuals-reference-by-SQLBI](https://www.sqlbi.com/ref/power-bi-visuals-reference/)
   
   ![Power BI visuals reference by SQLBI](2018-10-Power-BI-visuals-reference-by-SQLBI__.svg "svg format")
   
-- [Visualization types available in the Power BI Service](https://docs.microsoft.com/en-gb/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a)
+- [Limited visualization types for Q&A in the Power BI Service](https://docs.microsoft.com/en-gb/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a)
 
 ## Power BI custom visuals
 
