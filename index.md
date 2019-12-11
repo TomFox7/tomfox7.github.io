@@ -10,7 +10,6 @@
   
 ### Resources and standards for Power BI deployment and projects
 
-- [Azure Synapse Analytics (Azure SQL Data Warehouse) feed into Power BI](https://azure.microsoft.com/en-gb/services/synapse-analytics/)
 - 2018-07 [Power BI Governance and Deployment whitepaper](https://docs.microsoft.com/en-gb/power-bi/service-admin-governance)
 - [Power BI list of whitepapers from Microsoft](https://docs.microsoft.com/en-gb/power-bi/whitepapers)
 - 2019-08 [Power BI project good and best practices](https://sqlserverbi.blog/2019/08/24/power-bi-project-good-and-best-practices/)
