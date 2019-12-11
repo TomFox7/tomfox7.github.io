@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Tom Fox's Power BI and Azure data references
-description: Power BI samples, DAX patterns, data models, Azure Data Services, etc.
+title: Power BI and Azure Synapse Analytics references
+description: Power BI samples, DAX patterns, data models, Azure Data Analytics, etc.
 # tagline: A short description used as part of the title tag of the home page like 'title | tagline'.
 google_analytics: UA-47157029-2
 url: "https://beyondpowerbi.com" # the base hostname & protocol for your site
