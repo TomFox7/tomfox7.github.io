@@ -1,16 +1,15 @@
 ## Beyond Power BI: some amazing demonstrations
 
-- [GapMinder data presented in Power BI](https://beyondpowerbi.com/Power-BI-samples-GapMinder/) 
-  from gapminder.org/data/ and the Roslings' book 'Factfulness' ref. [here](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think).
+- **[GapMinder data presented in Power BI](https://beyondpowerbi.com/Power-BI-samples-GapMinder/)** 
+  from gapminder.org/data/ and the [Roslings' book 'Factfulness'](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think).
+- **[Power BI Design and Visualizations](https://beyondpowerbi.com/Power-BI-Design-and-Visualizations)** for purpose-driven visualizations.
 - A pattern is a general reusable solution to a commonly occurring problem.  
-  [DAX patterns and Data Models illustrated in Power BI](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/), adapted into Power BI from Excel examples by SQLBI
-- [PowerBI aggregations and composite models](https://beyondpowerbi.com/Power-BI-aggregations-composite-models/) - arguably the most impressive new features released in 2018.
-- [Power BI Integrations: samples of data sources, Power BI embedded and other services](https://beyondpowerbi.com/Power-BI-integrations)
-- [Power BI Design and Visualizations](https://beyondpowerbi.com/Power-BI-Design-and-Visualizations) for purpose-driven visualizations
+  **[DAX patterns and Data Models illustrated in Power BI](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/)**, adapted into Power BI from Excel examples by SQLBI
+- **[Power BI Integrations](https://beyondpowerbi.com/Power-BI-integrations)**: samples of data sources, Power BI embedded and other services.
+- **[PowerBI aggregations and composite models](https://beyondpowerbi.com/Power-BI-aggregations-composite-models/)** - arguably the most impressive new features released in 2018.
   
 ### Resources and standards for Power BI deployment and projects
 
-- 2019-11 [Power BI end-to-end features diagram](https://www.coatesdatastrategies.com/s/PowerBIEndToEndDiagram_MelissaCoates.pdf)
 - [Azure Synapse Analytics (Azure SQL Data Warehouse) feed into Power BI](https://azure.microsoft.com/en-gb/services/synapse-analytics/)
 - 2018-07 [Power BI Governance and Deployment whitepaper](https://docs.microsoft.com/en-gb/power-bi/service-admin-governance)
 - [Power BI list of whitepapers from Microsoft](https://docs.microsoft.com/en-gb/power-bi/whitepapers)
@@ -27,5 +26,6 @@
 ### About me
 [Tom Fox on LinkedIn](https://www.linkedin.com/in/tomfox247/)
 
-### About Microsoft Power BI
-[![Microsoft Power BI main page](images/power-bi-logo.png "click to follow link")](https://powerbi.microsoft.com/en-us/)
+### About Microsoft Power BI and Azure Synapse Analytics
+[![Microsoft Power BI main page](images/power-bi-logo.png "click image to follow link")](https://powerbi.microsoft.com/en-us/)
+[![Microsoft Azure Synapse Analytics main page](images/Azure-Synapse-Analytics-logo.jpg "click image to follow link")](https://azure.microsoft.com/en-gb/services/synapse-analytics/)
