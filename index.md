@@ -1,3 +1,7 @@
+This is site is to help developers and teams to implement Power BI solutions on the Azure Data Platform.  
+
+All usage is at your own discretion and risk.
+
 ## Beyond Power BI: some amazing demonstrations
 
 - **[GapMinder data presented in Power BI](https://beyondpowerbi.com/Power-BI-samples-GapMinder/)** 
