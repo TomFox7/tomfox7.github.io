@@ -12,8 +12,8 @@
 Related Distinct Count	[explained on DAX patterns site](https://www.daxpatterns.com/distinct-count/)
 
 - Basic pattern example
-    <iframe id="iframe-rdc1" title="Related-Distinct-Count" importance="low" 
-    src="https://app.powerbi.com/view?r=eyJrIjoiNTIyZjE3ZTgtYmE4Ni00YTEzLTlmZTEtMWZkYzdmMzU3MjIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9" allowfullscreen></iframe>
+    <iframe id="iframe-rdc1" title="Related-Distinct-Count" importance="low" allow="fullscreen"
+    src="https://app.powerbi.com/view?r=eyJrIjoiNTIyZjE3ZTgtYmE4Ni00YTEzLTlmZTEtMWZkYzdmMzU3MjIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
     
 - Complete example
