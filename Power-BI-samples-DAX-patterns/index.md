@@ -48,13 +48,8 @@ More about patterns for data models:
   
 - Budget	[explained on DAX patterns site](https://www.daxpatterns.com/budget-patterns/)
   
-- Star schema with a SWITCH() of measures [explained by Matthew Mowrey on PowerPivotPro site](https://powerpivotpro.com/2018/01/star-schema-switch-drill-income-statement-design/)
-  
-  This is an elegant solution for financial reporting and also for comparing actual performance against a budget or forecast.
-  <iframe id="iframe-sss1" title="StarSchema+Switch" importance="low" allow="fullscreen"
-  src="https://app.powerbi.com/view?r=eyJrIjoiYjA2YTg0NmYtOTUwNy00ZDQ4LWI0MzQtYTU2MTIxNmFiNWMwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+- **[Star schema with a SWITCH() of measures](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/star-with-switch-of-measures/)**
 
-  
 - Different Granularities	[explained on DAX patterns site](https://www.daxpatterns.com/handling-different-granularities/)
 - ABC Classification static	[explained on DAX patterns site](https://www.daxpatterns.com/abc-classification/)
 - ABC Classification dynamic	[explained on DAX patterns site](https://www.daxpatterns.com/abc-classification-dynamic/)
