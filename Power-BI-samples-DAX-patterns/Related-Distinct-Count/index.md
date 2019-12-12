@@ -16,14 +16,17 @@ Related Distinct Count	[explained on DAX patterns site](https://www.daxpatterns.
     src="https://app.powerbi.com/view?r=eyJrIjoiNTIyZjE3ZTgtYmE4Ni00YTEzLTlmZTEtMWZkYzdmMzU3MjIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
 
 
+
 - Complete example
     <iframe id="iframe-rdc2" title="Related-Distinct-Count2" importance="low"  allow="fullscreen" 
     src="https://app.powerbi.com/view?r=eyJrIjoiNDkyMDViNjQtYTc4Yi00NGRiLWEwYzUtOTg3MTAzOTZmMjIxIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
 
 
+
 - Distinct Count on Slowly Changing Dimension Type 2
     <iframe id="iframe-rdc3" title="Related-Distinct-Count3" importance="low"  allow="fullscreen" 
-    src="https://app.powerbi.com/view?r==eyJrIjoiNDgzNDkyNGEtMTZkOC00OWMyLWIyOTQtYWEwOGI0OTQ0NmVhIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiNDgzNDkyNGEtMTZkOC00OWMyLWIyOTQtYWEwOGI0OTQ0NmVhIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+
 
 
 ### Return to: 
