@@ -1,3 +1,11 @@
+<style>
+    iframe {
+      border: 1px solid black;
+      width: 800px;
+      height: 506px;
+    }
+</style>
+
 ## Star schema with a SWITCH() of measures DAX pattern
 
 
