@@ -20,6 +20,6 @@ This is an elegant solution for financial reporting and also for comparing actua
   
 
 ### Return to: 
-[Top](#cumulative-total-dax-pattern)  
+[Top](#star-schema-with-a-switch-of-measures-dax-pattern)  
 [Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns)  
 [Home](/.)
