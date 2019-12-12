@@ -32,6 +32,6 @@ Static Segmentation	[explained on DAX patterns site](https://www.daxpatterns.com
      
     
 ### Return to: 
-[Top](#dynamic-segmentation-count-dax-pattern)  
+[Top](#dynamic-segmentation-dax-pattern)  
 [Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns)  
 [Home](/.)
