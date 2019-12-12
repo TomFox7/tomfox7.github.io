@@ -35,30 +35,10 @@ More about patterns for data models:
 - Time Patterns	[explained on DAX patterns site](https://www.daxpatterns.com/time-patterns/)
 - **[Parameter Table](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Related-Distinct-Count/)**
 
-- Cum.Total	[explained on DAX patterns site](https://www.daxpatterns.com/cumulative-total/)
-
-  - Full pattern
+- **[Cumulative Total](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Cumulative-Total/)**
   
-    <iframe id="iframe-ct1" title="CumTotal-full-pattern" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiMjgzZDY2NDEtNTY3Mi00MjZlLWIxOWQtYmI4YWIzYmE0ZmFmIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
-    
-    
-  - Example of Cum.Total in Inventory Valuation
-  
-    <iframe id="iframe-ct2" title="CumTotal-Inventory-Valuation" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiOTRjZjM4YzUtNGZlZC00YmFiLTk0YjktYmRmOTkzODRmNmYzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
-    
+- **[Parent-Child](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Parent-Child/)**
 
-- Parent-Child	[explained on DAX patterns site](https://www.daxpatterns.com/parent-child-hierarchies/)
-
-  - Basic pattern example
-    
-    <iframe id="iframe-pc1" title="Parent-Child-basic" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYTk0ZTQ2ZTAtYzgwMi00MGJiLWJlNzEtNWU2NTE3ZjdlOTMzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
-
-  
-  - Complete example
-    
-    <iframe id="iframe-pc2" title="Parent-Child-complete" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYWE0ZTg3ZjAtMDU1YS00YzlkLWJiOGMtNjI5NmI4YzZjZmRlIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
-    
-  
 - Bill of Materials
   
   This is not yet available on the DAX patterns website, but solutions using M queries have been made by Imke Feldmann ([The BIccountant](https://www.thebiccountant.com/)):
