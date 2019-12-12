@@ -12,13 +12,15 @@
 Related Distinct Count	[explained on DAX patterns site](https://www.daxpatterns.com/distinct-count/)
 
 - Basic pattern example
-    <iframe id="iframe-rdc1" title="Related-Distinct-Count" importance="low" allow="fullscreen"
+    <iframe id="iframe-rdc1" title="Related-Distinct-Count1" importance="low" allow="fullscreen"
     src="https://app.powerbi.com/view?r=eyJrIjoiNTIyZjE3ZTgtYmE4Ni00YTEzLTlmZTEtMWZkYzdmMzU3MjIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
-    
-    
-- Complete example
 
-  
+
+- Complete example
+    <iframe id="iframe-rdc2" title="Related-Distinct-Count2" importance="low"  allow="fullscreen" 
+    src="https://app.powerbi.com/view?r=eyJrIjoiNDkyMDViNjQtYTc4Yi00NGRiLWEwYzUtOTg3MTAzOTZmMjIxIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+
+
 - Slowly Changing Dimension
 
 ### Return to: 
