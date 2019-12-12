@@ -17,7 +17,7 @@ More about patterns for data models:
 
 ## Use Cases for DAX patterns
 
-![Use cases of DAX patterns](https://tomfox7.github.io/PowerBI-samples-DAX-patterns/images/DAX_Patterns&Data_Models.png)
+![Use cases of DAX patterns](https://tomfox7.github.io/Power-BI-samples-DAX-patterns/DAX_Patterns&Data_Models.png)
 (The correlations with particular data models are work-in-progress.)
 
 ## DAX patterns in Power BI (online)
