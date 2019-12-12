@@ -26,6 +26,7 @@ More about patterns for data models:
       border: 1px solid black;
       width: 800px;
       height: 506px;
+      allow: fullscreen
     }
   </style>
   
@@ -106,16 +107,7 @@ More about patterns for data models:
 - Segmentation static	[explained on DAX patterns site](https://www.daxpatterns.com/static-segmentation/)
 - Segmentation dynamic	[explained on DAX patterns site](https://www.daxpatterns.com/dynamic-segmentation/)
 - New & Returning Customers	[explained on DAX patterns site](https://www.daxpatterns.com/new-and-returning-customers/)
-- Related Distinct Count	[explained on DAX patterns site](https://www.daxpatterns.com/distinct-count/)
-
-  - Basic pattern example
-    <iframe id="iframe-rdc1" title="Related-Distinct-Count" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiNTIyZjE3ZTgtYmE4Ni00YTEzLTlmZTEtMWZkYzdmMzU3MjIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
-    
-    
-  - Complete example
-  
-  - Slowly Changing Dimension
-  
+- **[Related Distinct Count](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Related-Distinct-Count/)** 
     
 - Statistical	[explained on DAX patterns site](https://www.daxpatterns.com/statistical-patterns/)
 
