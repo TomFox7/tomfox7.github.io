@@ -51,7 +51,8 @@ More about patterns for data models:
 - Star schema with a SWITCH() of measures [explained by Matthew Mowrey on PowerPivotPro site](https://powerpivotpro.com/2018/01/star-schema-switch-drill-income-statement-design/)
   
   This is an elegant solution for financial reporting and also for comparing actual performance against a budget or forecast.
-  <iframe id="iframe-sss1" title="StarSchema+Switch" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYjA2YTg0NmYtOTUwNy00ZDQ4LWI0MzQtYTU2MTIxNmFiNWMwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+  <iframe id="iframe-sss1" title="StarSchema+Switch" importance="low" allow="fullscreen"
+  src="https://app.powerbi.com/view?r=eyJrIjoiYjA2YTg0NmYtOTUwNy00ZDQ4LWI0MzQtYTU2MTIxNmFiNWMwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
 
   
 - Different Granularities	[explained on DAX patterns site](https://www.daxpatterns.com/handling-different-granularities/)
@@ -62,28 +63,8 @@ More about patterns for data models:
 - New & Returning Customers	[explained on DAX patterns site](https://www.daxpatterns.com/new-and-returning-customers/)
 - **[Related Distinct Count](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Related-Distinct-Count/)** 
     
-- Statistical	[explained on DAX patterns site](https://www.daxpatterns.com/statistical-patterns/)
+- **[Statistical](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/statistical/)** 
 
-  - Average/Mean
-    DAX functions: AVERAGE, AVERAGEA, AVERAGEX
-  - Moving Average (basic/advanced)
-  - Variance
-    DAX functions: VAR.S, VAR.P, VARX.S, VARX.P
-  - Standard Deviation
-    DAX functions: STDEV.S, STDEV.P, STDEVX.S, STDEVX.P
-  - Median (basic/advanced)
-  - Mode
-  - Percentile (basic/advanced)
-  - Quartiles
-    can be calculated using the Percentile pattern.
-     
-  - Linear regression
-    - [Simple linear regression in DAX](https://xxlbi.com/blog/simple-linear-regression-in-dax/)
-    - [Multiple Linear Regression in DAX](https://stackoverflow.com/questions/48796873/multiple-linear-regression-in-power-bi)
-     
-  - Pearson correlation coefficient
-    - [Pearson correlation coefficient in DAX](https://xxlbi.com/blog/pearson-correlation-coefficient-in-dax/)
-    - [Calculating Pearson Correlation Coefficient using DAX](https://blog.gbrueckl.at/2015/06/calculating-pearson-correlation-coefficient-dax/)
 
 ### Return to: 
 [Top](#why-data-models-and-dax-patterns)  [Home](https://beyondpowerbi.com/)
