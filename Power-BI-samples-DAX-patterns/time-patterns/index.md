@@ -14,7 +14,7 @@ Time Patterns	[explained on DAX patterns site](https://www.daxpatterns.com/time-
 - Basic pattern example
     
     <iframe id="iframe-ss-1" title="static-segmentation-1" importance="low" allow="fullscreen"
-    src=""></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiZjNiZmUzZDAtODJjMy00YWZjLWFjODQtODllZGYzZmU2ZmQ3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
 - Complete pattern example
