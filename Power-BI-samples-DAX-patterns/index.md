@@ -34,11 +34,11 @@ More about patterns for data models:
 - Survey	[explained on DAX patterns site](https://www.daxpatterns.com/survey/)
 - Time Patterns	[explained on DAX patterns site](https://www.daxpatterns.com/time-patterns/)
 - **[Parameter Table](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Related-Distinct-Count/)**
-
+  
 - **[Cumulative Total](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Cumulative-Total/)**
   
 - **[Parent-Child](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Parent-Child/)**
-
+  
 - Bill of Materials
   
   This is not yet available on the DAX patterns website, but solutions using M queries have been made by Imke Feldmann ([The BIccountant](https://www.thebiccountant.com/)):
@@ -47,15 +47,19 @@ More about patterns for data models:
   
   
 - Budget	[explained on DAX patterns site](https://www.daxpatterns.com/budget-patterns/)
-  
+    
 - **[Star schema with a SWITCH() of measures](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/star-with-switch-of-measures/)**
-
+  
 - Different Granularities	[explained on DAX patterns site](https://www.daxpatterns.com/handling-different-granularities/)
 - ABC Classification static	[explained on DAX patterns site](https://www.daxpatterns.com/abc-classification/)
 - ABC Classification dynamic	[explained on DAX patterns site](https://www.daxpatterns.com/abc-classification-dynamic/)
-- Segmentation static	[explained on DAX patterns site](https://www.daxpatterns.com/static-segmentation/)
-- Segmentation dynamic	[explained on DAX patterns site](https://www.daxpatterns.com/dynamic-segmentation/)
+
+- **[static Segmentation](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/segmentation-static/)**
+  
+- **[dynamic Segmentation](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/segmentation-dynamic/)**
+  
 - New & Returning Customers	[explained on DAX patterns site](https://www.daxpatterns.com/new-and-returning-customers/)
+  
 - **[Related Distinct Count](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Related-Distinct-Count/)** 
     
 - **[Statistical](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/statistical/)** 
