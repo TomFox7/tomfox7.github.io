@@ -25,6 +25,11 @@
 ### About me
 [Tom Fox on LinkedIn](https://www.linkedin.com/in/tomfox247/)
 
-### About Microsoft Power BI and Azure Synapse Analytics
-[![Microsoft Power BI main page](images/power-bi-logo.png "click image to follow link")](https://powerbi.microsoft.com/en-us/)
+### About Microsoft Azure Data Platform, Azure Synapse Analytics and Power BI
+
+**[Overview of Azure Data Platform](https://azure.microsoft.com/en-gb/overview/data-platform/)**
+
+
 [![Microsoft Azure Synapse Analytics main page](images/Azure-Synapse-Analytics-logo.jpg "click image to follow link")](https://azure.microsoft.com/en-gb/services/synapse-analytics/)
+[![Microsoft Power BI main page](images/power-bi-logo.png "click image to follow link")](https://powerbi.microsoft.com/en-us/)
+
