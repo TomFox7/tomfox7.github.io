@@ -32,7 +32,9 @@ More about patterns for data models:
   
 - Basket Analysis	[explained on DAX patterns site](https://www.daxpatterns.com/basket-analysis/)
 - Survey	[explained on DAX patterns site](https://www.daxpatterns.com/survey/)
-- Time Patterns	[explained on DAX patterns site](https://www.daxpatterns.com/time-patterns/)
+  
+- **[Time Patterns](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/time-patterns/)**
+  
 - **[Parameter Table](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Related-Distinct-Count/)**
   
 - **[Cumulative Total](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Cumulative-Total/)**
