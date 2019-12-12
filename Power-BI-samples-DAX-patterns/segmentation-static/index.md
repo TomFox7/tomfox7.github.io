@@ -20,7 +20,7 @@ Static Segmentation	[explained on DAX patterns site](https://www.daxpatterns.com
 - Complete pattern (sorted) example
     
     <iframe id="iframe-ss-2" title="static-segmentation-1" importance="low"  allow="fullscreen" 
-    src="https://app.powerbi.com/view?r=eyJrIjoiNDkyMDViNjQtYTc4Yi00NGRiLWEwYzUtOTg3MTAzOTZmMjIxIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiN2VlNTFmZjYtNzc4OS00ODViLWEzY2MtMTUwMjgyNmFlZGI0IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
 ### Return to: 
