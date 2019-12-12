@@ -14,7 +14,7 @@ Static Segmentation	[explained on DAX patterns site](https://www.daxpatterns.com
 - Basic pattern example
     
     <iframe id="iframe-ss-1" title="static-segmentation-1" importance="low" allow="fullscreen"
-    src="https://app.powerbi.com/view?r=eyJrIjoiNTIyZjE3ZTgtYmE4Ni00YTEzLTlmZTEtMWZkYzdmMzU3MjIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiNWIzNTdkZDUtNGJmYS00N2JlLTliNTQtZmMwOWNiNzE1MGZmIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
 - Complete pattern (sorted) example
@@ -24,6 +24,10 @@ Static Segmentation	[explained on DAX patterns site](https://www.daxpatterns.com
     
 
 ### Return to: 
-[Top](#static-segmentation-dax-pattern)  
-[Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns)  
+[Top](#static-segmentation-dax-pattern)
+  
+[Back to Parameter Table DAX pattern](/Power-BI-samples-DAX-patterns/Parameter-Table)
+  
+[Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns)
+  
 [Home](/.)
