@@ -39,7 +39,7 @@ More about patterns for data models:
   
 - **[Cumulative Total](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Cumulative-Total/)**
   
-- **[Parent-Child](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Parent-Child/)**
+- **[Parent-Child](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/parent-child/)**
   
 - Bill of Materials
   
