@@ -18,9 +18,12 @@ Time Patterns	[explained on DAX patterns site](https://www.daxpatterns.com/time-
     
 
 - Complete pattern example
-    
-    <iframe id="iframe-ss-2" title="static-segmentation-1" importance="low"  allow="fullscreen" 
-    src="https://app.powerbi.com/view?r=eyJrIjoiOWYyN2NhMzYtNzU4OS00MjhiLWI3MGMtYzFiZjJmNGY5M2FmIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+  - Aggregation Pattern
+  - Period Comparison Pattern
+  - Semi-Additive Pattern
+        
+  <iframe id="iframe-ss-2" title="static-segmentation-1" importance="low"  allow="fullscreen" 
+src="https://app.powerbi.com/view?r=eyJrIjoiOWYyN2NhMzYtNzU4OS00MjhiLWI3MGMtYzFiZjJmNGY5M2FmIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
 ### Return to:
