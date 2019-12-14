@@ -53,7 +53,9 @@ More about patterns for data models:
 - **[Star schema with a SWITCH() of measures](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/star-with-switch-of-measures/)**
   
 - Different Granularities	[explained on DAX patterns site](https://www.daxpatterns.com/handling-different-granularities/)
-- ABC Classification static	[explained on DAX patterns site](https://www.daxpatterns.com/abc-classification/)
+   
+- **[ABC Classification (static)](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/abc-classification/)**
+  
 - ABC Classification dynamic	[explained on DAX patterns site](https://www.daxpatterns.com/abc-classification-dynamic/)
 
 - **[static Segmentation](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/segmentation-static/)**
