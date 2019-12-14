@@ -43,7 +43,7 @@ ABC Classification [explained on DAX patterns site](https://www.daxpatterns.com/
   )
   ```
     <iframe id="iframe-ss-2" title="static-segmentation-1" importance="low"  allow="fullscreen" 
-    src=""></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiMjY2Y2ZkMjQtNGU5Yi00NjYwLTg0ZjEtYmMzNDRkYTI4MDcwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
 ### Return to: 
