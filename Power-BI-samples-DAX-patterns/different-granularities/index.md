@@ -29,9 +29,27 @@ Different Granularities	[explained on DAX patterns site](https://www.daxpatterns
     
 
 - Complete pattern example
+  
+  Template:
+  - \<unchecked measure\> is the original measure, which ignores the granularity of the query.
+  - \<invalid_granularity_column_N\> is a column that has more detail (higher granularity) than the one available for the \<unchecked measure\>.
+
+    ```
+    [Checked Measure] :=
+        IF (
+            NOT (
+                ISFILTERED ( <invalid_granularity_column_1> )
+                || ISFILTERED ( <invalid_granularity_column_2> )
+                ...
+                || ISFILTERED ( <invalid_granularity_column_N> )
+            ),
+            <unchecked measure>
+        )
+    ```
+  In the Advertising table is a calculated column of fictitious dates for the monthly expenditure.  This column is used to relate the Advertising and Date tables.
     
-    <iframe id="iframe-dg2" title="Different-Granularities-2" importance="low"  allow="fullscreen" 
-    src="https://app.powerbi.com/view?r=eyJrIjoiYmJlMDMxNTMtZWQwYS00ZTZmLThkOTQtY2Y2ZGIxNjMyMjJjIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
+  <iframe id="iframe-dg2" title="Different-Granularities-2" importance="low"  allow="fullscreen" 
+  src="https://app.powerbi.com/view?r=eyJrIjoiYmJlMDMxNTMtZWQwYS00ZTZmLThkOTQtY2Y2ZGIxNjMyMjJjIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
     </iframe>
            
 - Simulate a relationship at different granularities example
