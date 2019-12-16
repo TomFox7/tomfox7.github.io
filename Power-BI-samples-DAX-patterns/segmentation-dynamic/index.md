@@ -14,7 +14,7 @@ Static Segmentation	[explained on DAX patterns site](https://www.daxpatterns.com
 - Basic pattern example
     
     <iframe id="iframe-ds1" title="Dynamic-Segmentation-1" importance="low" allow="fullscreen"
-    src="https://app.powerbi.com/view?r=eyJrIjoiNTIyZjE3ZTgtYmE4Ni00YTEzLTlmZTEtMWZkYzdmMzU3MjIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
+    src="https://app.powerbi.com/view?r=eyJrIjoiYjAyZTM2MTktODg1YS00NGEyLWIxYzItZGMxNzMwNmZjNTNlIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
     </iframe>
     
 
