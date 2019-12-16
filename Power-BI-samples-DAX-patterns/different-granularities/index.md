@@ -54,10 +54,10 @@ Different Granularities	[explained on DAX patterns site](https://www.daxpatterns
            
 - Simulate a relationship at different granularities example
 
-  The Customers are grouped dynamically by Sales Amount.
+  In this example a YearMonth column is calculated in both the Advertising and Date tables.
 
     <iframe id="iframe-dg3" title="Different-Granularities-3" importance="low"  allow="fullscreen" 
-    src="https://app.powerbi.com/view?r=eyJrIjoiMTA2NzAxYmUtNDEyZS00ZjVlLWFmYTItZWFlYzY2Y2E4YTZiIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
+    src="">
     </iframe>
      
     
