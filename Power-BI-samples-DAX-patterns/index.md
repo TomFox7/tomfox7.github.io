@@ -48,11 +48,11 @@ More about patterns for data models:
   - [Parent-Child Hierarchies with multiple parents in Power BI with Power Query](https://www.thebiccountant.com/2019/10/03/parent-child-hierarchies-with-multiple-parents-in-power-bi-with-power-query/)
   
   
-- Budget	[explained on DAX patterns site](https://www.daxpatterns.com/budget-patterns/)
+- **[Budget variance](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/budget-variance/)**
     
 - **[Star schema with a SWITCH() of measures](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/star-with-switch-of-measures/)**
   
-- Different Granularities	[explained on DAX patterns site](https://www.daxpatterns.com/handling-different-granularities/)
+- **[Different Granularities](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/different-granularities/)**
    
 - **[ABC Classification (static)](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/abc-classification/)**
   
