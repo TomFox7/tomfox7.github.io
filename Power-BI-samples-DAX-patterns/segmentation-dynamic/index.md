@@ -9,7 +9,7 @@
 
 ## Dynamic Segmentation DAX pattern
 
-Static Segmentation	[explained on DAX patterns site](https://www.daxpatterns.com/dynamic-segmentation/)
+Dynamic Segmentation	[explained on DAX patterns site](https://www.daxpatterns.com/dynamic-segmentation/)
 
 - Basic pattern example
     
@@ -26,8 +26,10 @@ Static Segmentation	[explained on DAX patterns site](https://www.daxpatterns.com
            
 - Clustered Customers example
 
+  The Customers are grouped dynamically by Sales Amount.
+
     <iframe id="iframe-ds3" title="Dynamic-Segmentation-3" importance="low"  allow="fullscreen" 
-    src="https://app.powerbi.com/view?r=eyJrIjoiNDkyMDViNjQtYTc4Yi00NGRiLWEwYzUtOTg3MTAzOTZmMjIxIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
+    src="https://app.powerbi.com/view?r=eyJrIjoiMTA2NzAxYmUtNDEyZS00ZjVlLWFmYTItZWFlYzY2Y2E4YTZiIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
     </iframe>
      
     
