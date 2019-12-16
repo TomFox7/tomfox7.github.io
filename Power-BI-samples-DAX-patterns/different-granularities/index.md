@@ -49,7 +49,7 @@ Different Granularities	[explained on DAX patterns site](https://www.daxpatterns
   In the Advertising table is a calculated column of fictitious dates for the monthly expenditure.  This column is used to relate the Advertising and Date tables.
     
   <iframe id="iframe-dg2" title="Different-Granularities-2" importance="low"  allow="fullscreen" 
-  src="https://app.powerbi.com/view?r=eyJrIjoiYmJlMDMxNTMtZWQwYS00ZTZmLThkOTQtY2Y2ZGIxNjMyMjJjIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
+  src="https://app.powerbi.com/view?r=eyJrIjoiNTk3YjRjNGUtMzgxZS00NGNhLWIzYzYtMDllMjQ1OWM4M2Q5IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
     </iframe>
            
 - Simulate a relationship at different granularities example
