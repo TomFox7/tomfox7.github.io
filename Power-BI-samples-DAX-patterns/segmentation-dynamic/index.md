@@ -21,7 +21,7 @@ Static Segmentation	[explained on DAX patterns site](https://www.daxpatterns.com
 - Complete pattern example
     
     <iframe id="iframe-ds2" title="Dynamic-Segmentation-2" importance="low"  allow="fullscreen" 
-    src="https://app.powerbi.com/view?r=eyJrIjoiNDkyMDViNjQtYTc4Yi00NGRiLWEwYzUtOTg3MTAzOTZmMjIxIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
+    src="https://app.powerbi.com/view?r=eyJrIjoiYmJlMDMxNTMtZWQwYS00ZTZmLThkOTQtY2Y2ZGIxNjMyMjJjIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
     </iframe>
            
 - Clustered Customers example
