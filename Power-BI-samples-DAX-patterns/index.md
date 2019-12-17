@@ -54,9 +54,9 @@ More about patterns for data models:
   
 - **[Different Granularities](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/different-granularities/)**
    
-- **[ABC Classification (static)](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/abc-classification/)**
+- **[static ABC Classification](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/abc-classification/)**
   
-- ABC Classification dynamic	[explained on DAX patterns site](https://www.daxpatterns.com/abc-classification-dynamic/)
+- **[dynamic ABC Classification](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/abc-classification-dynamic/)**
 
 - **[static Segmentation](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/segmentation-static/)**
   
