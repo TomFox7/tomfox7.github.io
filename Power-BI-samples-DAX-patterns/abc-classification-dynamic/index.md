@@ -16,7 +16,7 @@ Understanding of these three DAX patterns is a prerequisite:
 - [Static ABC Classification][2]
 - [Parameter Table][1]
 
-Dynamic ABC Classification [as explained on Exceeed.hr site in 2018](https://exceed.hr/en/blog/dynamic-abc-analysis-in-dax-variables) 
+Dynamic ABC Classification [as explained on Exceed.hr site in 2018](https://exceed.hr/en/blog/dynamic-abc-analysis-in-dax-variables) 
 uses DAX variables to improve the solution by Gerhard Bruekl published in 2015, [explained on DAX patterns site.](https://www.daxpatterns.com/abc-classification/)
 
 - Basic pattern example
@@ -24,8 +24,7 @@ uses DAX variables to improve the solution by Gerhard Bruekl published in 2015, 
   This uses several calculated columns in the Products table.
     
     <iframe id="iframe-ss-1" title="static-segmentation-1" importance="low" allow="fullscreen"
-    src="">
-</iframe>
+    src=""></iframe>
     
 
 - Complete pattern example
@@ -66,7 +65,9 @@ uses DAX variables to improve the solution by Gerhard Bruekl published in 2015, 
 [Top](#dynamic-abc-classification-dax-pattern)
   
 [Static Segmentation DAX pattern][2]
+
 [Dynamic Segmentation DAX pattern][3]
+
 [Parameter Table DAX pattern][1]
   
 [Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns)
