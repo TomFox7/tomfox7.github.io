@@ -65,6 +65,8 @@
 ### Return to: 
 [Top](#basket-analysis-dax-pattern)
   
-[Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns)
+[Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns/)
+ 
+[Basket Analysis DAX pattern](/Power-BI-samples-DAX-patterns/basket-analysis/)
   
 [Home](/.)
