@@ -26,10 +26,10 @@ Static Segmentation	[explained on DAX patterns site](https://www.daxpatterns.com
 ### Return to: 
 [Top](#static-segmentation-dax-pattern)
   
-[Parameter Table DAX pattern](/Power-BI-samples-DAX-patterns/Parameter-Table)
+[Parameter Table DAX pattern](/Power-BI-samples-DAX-patterns/Parameter-Table/)
   
-[Dynamic Segmentation DAX pattern](/Power-BI-samples-DAX-patterns/segmentation-dynamic)
+[Dynamic Segmentation DAX pattern](/Power-BI-samples-DAX-patterns/segmentation-dynamic/)
   
-[Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns)
+[Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns/)
   
 [Home](/.)
