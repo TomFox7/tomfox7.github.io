@@ -9,7 +9,7 @@
 
 ## Basket Analysis DAX pattern
 
-2019 Basket Analysis [explained by Davis Zhang](https://www.linkedin.com/pulse/explore-potential-products-through-customers-purchase-davis-zhang)
+2019 Sequential Basket Analysis [explained by Davis Zhang](https://www.linkedin.com/pulse/explore-potential-products-through-customers-purchase-davis-zhang)
 
 2015 Basket Analysis [explained on DAX patterns site](https://www.daxpatterns.com/basket-analysis/)
 
