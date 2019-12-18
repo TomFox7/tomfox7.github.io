@@ -14,7 +14,7 @@ Survey [explained on DAX patterns site](https://www.daxpatterns.com/survey/)
 - Basic pattern example
     
     <iframe id="iframe-ss-1" title="static-segmentation-1" importance="low" allow="fullscreen"
-    src=""></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiOTIzZjVkNDEtYTQ4Yi00NmE0LWE5NTAtZGI5M2ZlN2U1ZTM4IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
 - Complete pattern (sorted) example
