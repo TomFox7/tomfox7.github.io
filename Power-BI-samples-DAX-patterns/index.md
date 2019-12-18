@@ -42,13 +42,8 @@ More about patterns for data models:
   
 - **[Parent-Child](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/parent-child/)**
   
-- Bill of Materials
-  
-  This is not yet available on the DAX patterns website, but solutions using M queries have been made by Imke Feldmann ([The BIccountant](https://www.thebiccountant.com/)):
-  - [Bill of Materials (BOM) solution in Excel and PowerBI](https://www.thebiccountant.com/2017/05/08/dynamic-bill-of-material-bom-solution-in-excel-and-powerbi/)
-  - [Parent-Child Hierarchies with multiple parents in Power BI with Power Query](https://www.thebiccountant.com/2019/10/03/parent-child-hierarchies-with-multiple-parents-in-power-bi-with-power-query/)
-  
-  
+- **[Bill of Materials](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/bill-of-materials/)**
+    
 - **[Budget variance](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/budget-variance/)**
     
 - **[Star schema with a SWITCH() of measures](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/star-with-switch-of-measures/)**
