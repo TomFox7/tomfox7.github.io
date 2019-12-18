@@ -30,8 +30,9 @@ More about patterns for data models:
     }
   </style>
   
-- Basket Analysis	[explained on DAX patterns site](https://www.daxpatterns.com/basket-analysis/)
-- Survey	[explained on DAX patterns site](https://www.daxpatterns.com/survey/)
+- **[Basket Analysis](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/basket-analysis/)**
+  
+- **[Survey](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/survey/)**
   
 - **[Time Patterns](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/time-patterns/)**
   
@@ -62,7 +63,7 @@ More about patterns for data models:
   
 - **[dynamic Segmentation](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/segmentation-dynamic/)**
   
-- New & Returning Customers	[explained on DAX patterns site](https://www.daxpatterns.com/new-and-returning-customers/)
+- **[Customer churn](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/customer-churn/)**
   
 - **[Related Distinct Count](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Related-Distinct-Count/)** 
     
