@@ -10,11 +10,11 @@ All usage of this site and links to other sites is at your own discretion and ri
 
 - **[GapMinder data presented in Power BI](https://beyondpowerbi.com/Power-BI-samples-GapMinder/)** 
   from gapminder.org/data/ and the [Roslings' book 'Factfulness'](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think).  Compelling visualisations encourage fact-based decisions. 
-- **[Power BI Design and Visualizations](https://beyondpowerbi.com/Power-BI-Design-and-Visualizations)** for purpose-driven visualizations.  
+- **[Power BI Design and Visualizations](https://beyondpowerbi.com/Power-BI-Design-and-Visualizations/)** for purpose-driven visualizations.  
 A report with a clear message starts with good design; a 'visual vocabulary' helps to select the most appropriate visualizations, once the design intent is known. 
 - A pattern is a general reusable solution to a commonly occurring problem - a route to productivity and reliability.  
   **[DAX patterns and Data Models illustrated in Power BI](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/)**, which I adapted into Power BI from Excel examples made by the SQLBI experts and others.
-- **[Power BI Integrations](https://beyondpowerbi.com/Power-BI-integrations)**: samples of data sources, Power BI embedded and other services.  
+- **[Power BI Integrations](https://beyondpowerbi.com/Power-BI-integrations/)**: samples of data sources, Power BI embedded and other services.  
 Artistic reports alone would mislead if based on wrong or late data.  "Beyond Power BI" we need appropriate upstream data sources and downstream processes for decision-taking,  implementation and review/feedback loops.
 - **[PowerBI aggregations and composite models](https://beyondpowerbi.com/Power-BI-aggregations-composite-models/)** are arguably the most impressive new features of Power BI released in 2018; they are useful for big data sources.
   
