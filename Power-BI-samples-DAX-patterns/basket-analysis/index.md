@@ -30,6 +30,7 @@ This pattern is a specialization of the Survey pattern.
     <br/>
 
 - 2019 Sequential Basket Analysis [explained by Davis Zhang](https://www.linkedin.com/pulse/explore-potential-products-through-customers-purchase-davis-zhang).  
+  
   This article extends 'Basket Analysis' by taking into account the chronological order in which customers purchase different products.
 
     <iframe id="iframe-sba-1" title="sequential-basket-analysis-1" importance="low" allow="fullscreen"
