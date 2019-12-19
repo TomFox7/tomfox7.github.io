@@ -33,7 +33,7 @@ This pattern is a specialization of the Survey pattern.
   This article extends 'Basket Analysis' by taking into account the chronological order in which customers purchase different products.
 
     <iframe id="iframe-sba-1" title="sequential-basket-analysis-1" importance="low" allow="fullscreen"
-    src=""></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiZTIzY2M0YmEtNjU2Ni00Mzc1LWE4MjctYWRkOTFiMTAzMGQwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     <br/>
 
 - 2014 Basket Analysis [explained by Gerhard Brueckl](https://blog.gbrueckl.at/2014/02/applied-basket-analysis-in-power-pivot-using-dax/).  
