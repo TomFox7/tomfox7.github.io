@@ -9,10 +9,10 @@
 
 ## Customer Churn DAX pattern
 
-2016-05 Faster New and Returning Customers [explained on the SQLBI site.](https://www.sqlbi.com/articles/computing-new-customers-in-dax/)   
-This version of the measure is much faster than the one published in 2015.
+- 2016-05 Faster New and Returning Customers [explained on the SQLBI site.](https://www.sqlbi.com/articles/computing-new-customers-in-dax/)   
+  This version of the measure is much faster than the one published in 2015.
 
-```
+  ```
   MEASURE Sales[NewCustomers] =
     COUNTROWS (
         FILTER (
@@ -30,41 +30,42 @@ This version of the measure is much faster than the one published in 2015.
             )
         )
     )
-```
+  ```
+  
     <iframe id="iframe-cc-1" title="customer-churn-1" importance="low" allow="fullscreen"
     src="https://app.powerbi.com/view?r=eyJrIjoiMDZkOTI5NjMtZDk3OC00OWU5LTgxMDMtZDJmNTE0ZWM3MTIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
-2019 Customer Attribution Analysis [explained by Sam McKay](https://blog.enterprisedna.co/customer-attrition-analysis-advanced-dax-in-power-bi/)
+- 2019 Customer Attribution Analysis [explained by Sam McKay](https://blog.enterprisedna.co/customer-attrition-analysis-advanced-dax-in-power-bi/)
 
-2015 New and returning customers [explained on DAX patterns site](https://www.daxpatterns.com/new-and-returning-customers/)
+- 2015 New and returning customers [explained on DAX patterns site](https://www.daxpatterns.com/new-and-returning-customers/)
 
-- Basic pattern example
+  - Basic pattern example
     
     <iframe id="iframe-cc-3" title="customer-churn-3" importance="low" allow="fullscreen"
     src=""></iframe>
     
 
-- Complete pattern (sorted) example
+  - Complete pattern (sorted) example
     
     <iframe id="iframe-cc-4" title="customer-churn-4" importance="low"  allow="fullscreen" 
     src=""></iframe>
 
-- Improved using VAR and a set function
+  - Improved using VAR and a set function
 
-  ```
-  MEASURE Customer[NewCustomersSet] =
-    VAR CurrentCustomers = VALUES ( Sales[CustomerKey] )
-    VAR OldCustomers = 
-        FILTER (
-            CurrentCustomers,
-            CALCULATE (
-                MIN ( Sales[OrderDate] ), 
-                ALL ( 'Date' )
-            ) < MIN ( 'Date'[FullDate] )
-        )
-    RETURN COUNTROWS ( EXCEPT ( CurrentCustomers, OldCustomers ) )
-  ```
+    ```
+      MEASURE Customer[NewCustomersSet] =
+        VAR CurrentCustomers = VALUES ( Sales[CustomerKey] )
+        VAR OldCustomers = 
+            FILTER (
+                CurrentCustomers,
+                CALCULATE (
+                    MIN ( Sales[OrderDate] ), 
+                    ALL ( 'Date' )
+                ) < MIN ( 'Date'[FullDate] )
+            )
+        RETURN COUNTROWS ( EXCEPT ( CurrentCustomers, OldCustomers ) )
+    ```
 
 ### Return to: 
 [Top](#basket-analysis-dax-pattern)
