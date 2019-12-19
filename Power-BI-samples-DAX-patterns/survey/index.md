@@ -20,7 +20,7 @@ Survey [explained on DAX patterns site](https://www.daxpatterns.com/survey/)
 - Complete pattern (sorted) example
     
     <iframe id="iframe-ss-2" title="static-segmentation-1" importance="low"  allow="fullscreen" 
-    src=""></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiNjI3ZWZjYWUtOGMxZS00Nzg2LTkwMzAtYmJkMmYyZGIyMjcwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
 ### Return to: 
@@ -28,6 +28,6 @@ Survey [explained on DAX patterns site](https://www.daxpatterns.com/survey/)
   
 [Basket Analysis DAX pattern](/Power-BI-samples-DAX-patterns/basket-analysis/)
   
-[Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns)
+[Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns/)
   
 [Home](/.)
