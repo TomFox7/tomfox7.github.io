@@ -9,7 +9,7 @@
 
 ## Customer Churn DAX pattern
 
-2016-05 Faster New and Returning Customers [explained in SQLBI site](https://www.sqlbi.com/articles/computing-new-customers-in-dax/)
+2016-05 Faster New and Returning Customers [explained on the SQLBI site.](https://www.sqlbi.com/articles/computing-new-customers-in-dax/)   
 This version of the measure is much faster than the one published in 2015.
 
 ```
@@ -32,7 +32,7 @@ This version of the measure is much faster than the one published in 2015.
     )
 ```
     <iframe id="iframe-cc-1" title="customer-churn-1" importance="low" allow="fullscreen"
-    src="">https://app.powerbi.com/view?r=eyJrIjoiMDZkOTI5NjMtZDk3OC00OWU5LTgxMDMtZDJmNTE0ZWM3MTIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9</iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiMDZkOTI5NjMtZDk3OC00OWU5LTgxMDMtZDJmNTE0ZWM3MTIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
 2019 Customer Attribution Analysis [explained by Sam McKay](https://blog.enterprisedna.co/customer-attrition-analysis-advanced-dax-in-power-bi/)
@@ -50,7 +50,7 @@ This version of the measure is much faster than the one published in 2015.
     <iframe id="iframe-cc-4" title="customer-churn-4" importance="low"  allow="fullscreen" 
     src=""></iframe>
 
-- Improved using VAR
+- Improved using VAR and a set function
 
   ```
   MEASURE Customer[NewCustomersSet] =
@@ -64,7 +64,7 @@ This version of the measure is much faster than the one published in 2015.
             ) < MIN ( 'Date'[FullDate] )
         )
     RETURN COUNTROWS ( EXCEPT ( CurrentCustomers, OldCustomers ) )
-    ```
+  ```
 
 ### Return to: 
 [Top](#basket-analysis-dax-pattern)
