@@ -13,7 +13,7 @@
 
     <iframe id="iframe-sba-1" title="sequential-basket-analysis-1" importance="low" allow="fullscreen"
     src=""></iframe>
-
+    <br/>
 - 2015 Basket Analysis [explained on DAX patterns site](https://www.daxpatterns.com/basket-analysis/)
   This pattern is a specialization of the Survey pattern.
   
@@ -23,8 +23,7 @@
     
     <iframe id="iframe-ba-1" title="basket-analysis-1" importance="low" allow="fullscreen"
     src="https://app.powerbi.com/view?r=eyJrIjoiZjVlNjk4NmItYWMyYi00MzQ1LTllN2UtMGYxZjNmMTdiZWViIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
-    
-
+    <br/>
   - Complete pattern example
     
     This sample shows, in separate tabs, measures based on: \- 
@@ -34,10 +33,10 @@
     <br/>
     <iframe id="iframe-ba-2" title="basket-analysis-2" importance="low"  allow="fullscreen" 
     src="https://app.powerbi.com/view?r=eyJrIjoiOTQzMzljZDktZWRkYi00OGJlLTgwZjktMTg5MjQ0MmNlMmU3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
-
+    <br/>
+    <br/>
 - 2014 Basket Analysis [explained by Gerhard Brueckl.](https://blog.gbrueckl.at/2014/02/applied-basket-analysis-in-power-pivot-using-dax/)
-
-    
+    <br/>
 
 ### Return to: 
 [Top](#basket-analysis-dax-pattern)
