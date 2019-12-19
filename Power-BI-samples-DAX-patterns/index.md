@@ -36,7 +36,7 @@ More about patterns for data models:
   
 - **[Time Patterns](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/time-patterns/)**
   
-- **[Parameter Table](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Related-Distinct-Count/)**
+- **[Parameter Table](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Parameter-Table/)**
   
 - **[Cumulative Total](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Cumulative-Total/)**
   
@@ -66,4 +66,6 @@ More about patterns for data models:
 
 
 ### Return to: 
-[Top](#why-data-models-and-dax-patterns)  [Home](https://beyondpowerbi.com/)
+[Top](#why-data-models-and-dax-patterns)  
+  
+[Home](https://beyondpowerbi.com/)
