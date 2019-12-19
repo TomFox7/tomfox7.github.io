@@ -27,8 +27,14 @@
 
   - Complete pattern example
     
+    This sample shows, in separate tabs, measures based on 
+    - Orders 
+    - Customers 
+    - Orders or Customers with both Products.
+    
+    
     <iframe id="iframe-ba-2" title="basket-analysis-2" importance="low"  allow="fullscreen" 
-    src=""></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiOTQzMzljZDktZWRkYi00OGJlLTgwZjktMTg5MjQ0MmNlMmU3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
 
 - 2014 Basket Analysis [explained by Gerhard Brueckl.](https://blog.gbrueckl.at/2014/02/applied-basket-analysis-in-power-pivot-using-dax/)
 
