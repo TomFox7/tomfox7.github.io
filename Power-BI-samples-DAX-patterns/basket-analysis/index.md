@@ -15,14 +15,17 @@
     src=""></iframe>
 
 - 2015 Basket Analysis [explained on DAX patterns site](https://www.daxpatterns.com/basket-analysis/)
-
+  This pattern is a specialization of the Survey pattern.
+  
   - Basic pattern example
     
+    The key feature is a *copy* of the Product table, which contains the *same data* and has the prefix 'Filter' before all the table and column names. The relationship between the Sales table and the Filter Product table is inactive.  This Filter table enables use of a dual filter on products and/or their attributes.
+    
     <iframe id="iframe-ba-1" title="basket-analysis-1" importance="low" allow="fullscreen"
-    src=""></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiODYwNzUzZDYtNWQ2NS00ZDg0LTkyNTctYWU0ZGFlMmUzMzkxIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
-  - Complete pattern (sorted) example
+  - Complete pattern example
     
     <iframe id="iframe-ba-2" title="basket-analysis-2" importance="low"  allow="fullscreen" 
     src=""></iframe>
