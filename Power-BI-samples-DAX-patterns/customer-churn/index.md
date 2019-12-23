@@ -10,13 +10,13 @@
 ## Customer Churn DAX pattern
   
   
-- 2015 New and returning customers [explained on DAX patterns site](https://www.daxpatterns.com/new-and-returning-customers/)
+- 2015 New and returning customers [explained on DAX patterns site.](https://www.daxpatterns.com/new-and-returning-customers/)
 
   - Complete pattern example   
     This includes both absolute and relative measures.
       
     <iframe id="iframe-cc-4" title="customer-churn-4" importance="low"  allow="fullscreen" 
-    src="https://app.powerbi.com/view?r=eyJrIjoiYmRkZTIyNTgtMTM1Yi00ZWNlLWI0MTMtNjRmNWFmZTI4NmJlIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiYmRkZTIyNTgtMTM1Yi00ZWNlLWI0MTMtNjRmNWFmZTI4NmJlIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe><br>
 
   - Improved using VAR and a set function
 
@@ -58,13 +58,13 @@
   ```
   
     <iframe id="iframe-cc-1" title="customer-churn-1" importance="low" allow="fullscreen"
-    src="https://app.powerbi.com/view?r=eyJrIjoiMDZkOTI5NjMtZDk3OC00OWU5LTgxMDMtZDJmNTE0ZWM3MTIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+    src="https://app.powerbi.com/view?r=eyJrIjoiMDZkOTI5NjMtZDk3OC00OWU5LTgxMDMtZDJmNTE0ZWM3MTIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe><br>
     
 
-- 2017 Customer Attribution Analysis [explained by Sam McKay](https://blog.enterprisedna.co/customer-attrition-analysis-advanced-dax-in-power-bi/)
+- 2017 Customer Attribution Analysis [explained by Sam McKay.](https://blog.enterprisedna.co/customer-attrition-analysis-advanced-dax-in-power-bi/)
   
 ### Return to: 
-[Top](#basket-analysis-dax-pattern)
+[Top](#customer-churn-dax-pattern)
   
 [Back to overview of DAX patterns](/Power-BI-samples-DAX-patterns/)
  
