@@ -33,6 +33,13 @@
             )
         RETURN COUNTROWS ( EXCEPT ( CurrentCustomers, OldCustomers ) )
     ```
+    
+  - Sales by Customer type example   
+    Here the list of customers is a filter argument in the relevant CALCULATE expression.
+      
+    <iframe id="iframe-cc-4" title="customer-churn-4" importance="low"  allow="fullscreen" 
+    src="https://app.powerbi.com/view?r=eyJrIjoiMDU2MGI1MzQtZDNhMS00MWZlLWIwOTYtYmFmYWI5MzZhZmVjIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe><br>
+
 
 - 2016-05 Faster New and Returning Customers [explained on the SQLBI site.](https://www.sqlbi.com/articles/computing-new-customers-in-dax/)   
   This version of the measure is much faster than the one published in 2015.
