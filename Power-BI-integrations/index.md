@@ -48,6 +48,14 @@
 - 2019-10 [Move dataflows across workspaces with the Power BI REST API](https://data-marc.com/2019/10/22/move-dataflows-across-workspaces-with-the-power-bi-rest-api/)
 
 
+## Common Data Service for Power Apps/Automate/BI
+
+The Common Data Service is a data service and app platform that is integrated into Power Apps.
+- [Introduction](https://powerapps.microsoft.com/en-us/common-data-service/) by Microsoft
+- [What is the Common Data Service?](https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/data-platform-intro) by Microsoft
+- [What is the Common Data Model?](https://powerplatform.microsoft.com/en-us/common-data-model/) by Microsoft
+
+
 ## From Power BI into PowerApps and Power Automate (Microsoft Flow)
 
 - 2019-11 [Power Apps custom visual for Power BI](https://docs.microsoft.com/en-gb/powerapps/maker/canvas-apps/powerapps-custom-visual)
