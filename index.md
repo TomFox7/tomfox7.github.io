@@ -23,7 +23,7 @@ Artistic reports alone would mislead if based on wrong or late data.  "Beyond Po
 To balance the advantages of 'self-service business intelligence (BI)' with the advantages of reliable IT processes requires respect for relevant best practices.  Good policies need deliberate implementation.
 - 2018-07 [Power BI Governance and Deployment whitepaper](https://docs.microsoft.com/en-gb/power-bi/service-admin-governance) published by Microsoft.
 - [Power BI list of Microsoft whitepapers](https://docs.microsoft.com/en-gb/power-bi/whitepapers)
-- [Deploying and Managing Power BI Premium Capacities](https://docs.microsoft.com/en-us/power-bi/whitepaper-powerbi-premium-deployment)
+- [Deploying and Managing Power BI Premium Capacities](https://docs.microsoft.com/en-us/power-bi/whitepaper-powerbi-premium-deployment) by Microsoft.
 - 2019-08 [Power BI project good and best practices](https://sqlserverbi.blog/2019/08/24/power-bi-project-good-and-best-practices/) by Paul Turley.
 - 2019-10 [Power BI cheat-sheet](https://bit.ly/cheatsheetpbi) by Macaw.
 - 2017-12 [Checklist for Finalizing a Data Model in Power BI Desktop](https://www.sqlchick.com/entries/2017/12/23/checklist-for-finalizing-a-data-model-in-power-bi-desktop) by Melissa Coates.
