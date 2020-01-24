@@ -44,21 +44,21 @@ More about patterns for data models:
   
 - **[Bill of Materials](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/bill-of-materials/)**
     
-- **[Budget variance](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/budget-variance/)**
+- **[Budget Variance](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/budget-variance/)**
     
-- **[Star schema with a SWITCH() of measures](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/star-with-switch-of-measures/)**
+- **[Star-schema with a SWITCH() of Measures](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/star-with-switch-of-measures/)**
   
 - **[Different Granularities](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/different-granularities/)**
    
-- **[static ABC Classification](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/abc-classification/)**
+- **[Static ABC Classification](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/abc-classification/)**
   
-- **[dynamic ABC Classification](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/abc-classification-dynamic/)**
+- **[Dynamic ABC Classification](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/abc-classification-dynamic/)**
 
-- **[static Segmentation](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/segmentation-static/)**
+- **[Static Segmentation](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/segmentation-static/)**
   
-- **[dynamic Segmentation](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/segmentation-dynamic/)**
+- **[Dynamic Segmentation](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/segmentation-dynamic/)**
   
-- **[Customer churn](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/customer-churn/)**
+- **[Customer Churn](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/customer-churn/)**
   
 - **[Related Distinct Count](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/Related-Distinct-Count/)** 
     
