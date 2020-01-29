@@ -21,7 +21,7 @@ A pattern is a general reusable solution to a commonly occurring problem - a rou
   
 - **[PowerBI aggregations and composite models](https://beyondpowerbi.com/Power-BI-aggregations-composite-models/)**<br> are arguably the most impressive new features of Power BI released in 2018; they are useful for big data sources.
   
-## [Resources and standards for Power BI deployment and projects](https://beyondpowerbi.com/Power-BI-deployment/)**<br>
+## **[Resources and standards for Power BI deployment and projects](https://beyondpowerbi.com/Power-BI-deployment/)**<br>
 
 To balance the advantages of 'self-service business intelligence (BI)' with the advantages of reliable IT processes requires respect for relevant best practices.  Good policies need deliberate implementation.
   
