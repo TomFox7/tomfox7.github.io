@@ -101,5 +101,11 @@
 - 2019-11 [From Azure Databricks into Power BI](https://docs.microsoft.com/en-gb/azure/databricks/bi/power-bi)
 - 2019-04 [Push data frame from Azure DataBricks (Spark) into Power BI](https://adatis.co.uk/injecting-databricks-dataframe-into-a-power-bi-push-dataset/)
 
+
+## Microsoft Intune with Power BI
+
+- [Overview of Intune by Microsoft](https://docs.microsoft.com/en-us/intune/fundamentals/what-is-intune)
+- [Read Intune Data Warehouse using Power BI](https://docs.microsoft.com/en-us/intune/developer/reports-proc-get-a-link-powerbi)
+- [How to visualise Intune data with Power BI](https://docs.microsoft.com/en-us/intune/developer/reports-proc-create-with-odata)
 ### Return to: 
 [Top](#power-bi-end-to-end-features)  [Home](https://beyondpowerbi.com/)
