@@ -22,4 +22,4 @@ Agile software engineering methods, including formal testing and DevOps automati
 - more to follow in due course.
 
 ### Return to: 
-[Top](#resources-and-standards-for-Power-BI-deployment-and-projects)  [Home](https://beyondpowerbi.com/)
+[Top](#resources-and-standards-for-power-bi-deployment-and-projects)  [Home](https://beyondpowerbi.com/)
