@@ -22,6 +22,15 @@
   - 2019-10 [Power Query in Power Automate (was Microsoft Flow)](https://hatfullofdata.blog/power-query-in-microsoft-flow-1/)
 
 
+### AI Builder with Power Apps or Power Automate
+
+AI Builder is a 'low-code' or 'no-code' service to speed up processes, predict outcomes and improve performance through AI insights.  It connects with the Common Data Service and can be used with Powers Apps and Power Automate.  It has been in public preview since July 2019.
+
+  - [Overview of Microsoft AI Builder](https://powerapps.microsoft.com/en-us/ai-builder/)
+  - [AI Builder documentation](https://docs.microsoft.com/en-gb/ai-builder/)
+  - [AI Builder in Power Apps](https://docs.microsoft.com/en-gb/powerapps/use-ai-builder)
+  - [AI Builder in Power Automate](https://docs.microsoft.com/en-gb/ai-builder/use-in-flow-overview)
+
 
 [![Microsoft Power BI main page](images/power-bi-logo.png "click image to follow link")](https://powerbi.microsoft.com/en-us/)
 
