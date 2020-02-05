@@ -24,12 +24,13 @@
 
 ### AI Builder with Power Apps or Power Automate
 
-AI Builder is a 'low-code' or 'no-code' service to speed up processes, predict outcomes and improve performance through AI insights.  It connects with the Common Data Service and can be used with Powers Apps and Power Automate.  It has been in public preview since July 2019.
+AI Builder is a 'low-code' or 'no-code' service to speed up processes, predict outcomes and improve performance through AI insights.  It connects with the Common Data Service and can be used with Powers Apps and Power Automate.  <br>It has been in public preview since July 2019, some features were in General Availability since October 2019 and several more features are due in Feb/March 2020.
 
   - [Overview of Microsoft AI Builder](https://powerapps.microsoft.com/en-us/ai-builder/)
   - [AI Builder documentation](https://docs.microsoft.com/en-gb/ai-builder/)
   - [AI Builder in Power Apps](https://docs.microsoft.com/en-gb/powerapps/use-ai-builder)
   - [AI Builder in Power Automate](https://docs.microsoft.com/en-gb/ai-builder/use-in-flow-overview)
+  - [New and planned features of AI Builder](https://docs.microsoft.com/en-us/power-platform-release-plan/2019wave2/ai-builder/planned-features)
 
 
 [![Microsoft Power BI main page](images/power-bi-logo.png "click image to follow link")](https://powerbi.microsoft.com/en-us/)
