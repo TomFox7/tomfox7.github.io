@@ -33,7 +33,3 @@ Agile software engineering methods, including formal testing and DevOps automati
 
 ### About me
 [Tom Fox on LinkedIn](https://www.linkedin.com/in/tomfox247/)
-
-### About Microsoft Power BI
-
-[![Microsoft Power BI main page](images/power-bi-logo.png "click image to follow link")](https://powerbi.microsoft.com/en-us/)
