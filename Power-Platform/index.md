@@ -26,4 +26,6 @@
 [![Microsoft Power BI main page](images/power-bi-logo.png "click image to follow link")](https://powerbi.microsoft.com/en-us/)
 
 ### Return to: 
-[Top](#microsoft-power-platform)  [Home](https://beyondpowerbi.com/)
+[Top](#microsoft-power-platform)<br>
+[Power BI integrations](https://beyondpowerbi.com/Power-BI-integrations)<br>
+[Home](https://beyondpowerbi.com/)
