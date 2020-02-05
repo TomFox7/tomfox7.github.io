@@ -16,6 +16,7 @@
 - 2018-04 [Load Contoso Retail data to a SQL Analytics data warehouse](https://docs.microsoft.com/en-gb/azure/sql-data-warehouse/sql-data-warehouse-load-from-azure-blob-storage-with-polybase)
 - 2019-11 [How Azure Synapse Analytics will deliver 'Cloud Scale Analytics'](https://www.blue-granite.com/blog/realizing-your-cloud-vision-at-scale-with-azure-synapse-analytics)
 
+- [![Microsoft Azure Synapse Analytics main page](images/Azure-Synapse-Analytics-logo.jpg "click image to follow link")](https://azure.microsoft.com/en-gb/services/synapse-analytics/)
 
 ## Streaming data into Power BI
 
@@ -47,29 +48,12 @@
 - 2019-09 [Dataflows best practices](https://docs.microsoft.com/en-us/power-bi/service-dataflows-best-practices)
 - 2019-10 [Move dataflows across workspaces with the Power BI REST API](https://data-marc.com/2019/10/22/move-dataflows-across-workspaces-with-the-power-bi-rest-api/)
 
+## Microsoft Azure Data Platform
+
+[Overview of Azure Data Platform](https://azure.microsoft.com/en-gb/overview/data-platform/) by Microsoft.
+
 ## Microsoft Power Platform
-- [Overview of Microsoft Power Platform](https://powerplatform.microsoft.com/en-gb/)
-- [PowerApps overview](https://powerapps.microsoft.com/en-us/)
-- [PowerApps - getting started](https://azure.microsoft.com/en-gb/products/powerapps/)
-- [Power BI](https://powerbi.microsoft.com/)
-- [Power Automate (was Flow)](https://flow.microsoft.com/en-us/)
-- [Power Virtual Agents](https://powervirtualagents.microsoft.com/en-us/)
-
-
-  ### Common Data Service for Power Apps/Automate/BI
-
-  The Common Data Service is a data service and app platform that is integrated into Power Apps.
-  - [Introduction](https://powerapps.microsoft.com/en-us/common-data-service/) by Microsoft
-  - [What is the Common Data Service?](https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/data-platform-intro) by Microsoft
-  - [What is the Common Data Model?](https://powerplatform.microsoft.com/en-us/common-data-model/) by Microsoft
-
-
-  ### From Power BI into PowerApps and Power Automate (was Microsoft Flow)
-
-  - 2019-11 [Power Apps custom visual for Power BI](https://docs.microsoft.com/en-gb/powerapps/maker/canvas-apps/powerapps-custom-visual)
-  - 2018-03 [How to view a PowerApp within a PowerBI Report](https://docs.microsoft.com/en-gb/powerapps/maker/canvas-apps/embed-powerapps-powerbi)
-  - 2019-10 [Power Query in Power Automate (was Microsoft Flow)](https://hatfullofdata.blog/power-query-in-microsoft-flow-1/)
-
+[Power Platform](https://beyondpowerbi.com/Power-Platform/) on this site.
 
 ## Power BI embedded in an App or within an organisation's Apps
 
@@ -108,4 +92,6 @@
 - [Read Intune Data Warehouse using Power BI](https://docs.microsoft.com/en-us/intune/developer/reports-proc-get-a-link-powerbi)
 - [How to visualise Intune data with Power BI](https://docs.microsoft.com/en-us/intune/developer/reports-proc-create-with-odata)
 ### Return to: 
-[Top](#power-bi-end-to-end-features)  [Home](https://beyondpowerbi.com/)
+[Top](#power-bi-end-to-end-features)  <br>
+[Power Platform](https://beyondpowerbi.com/Power-Platform/)  <br>
+[Home](https://beyondpowerbi.com/)
