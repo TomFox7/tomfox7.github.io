@@ -15,6 +15,15 @@ Agile software engineering methods, including formal testing and DevOps automati
 - 2019-11 [Versioning and CI+CD for Power BI with Azure DevOps](https://data-marc.com/2019/11/12/versioning-and-ci-cd-for-power-bi-with-azure-devops/) by Marc Lelijveld.
 - 2019-11 [Power BI DevOps CD+CI pipelines Ignite preview, due March 2020](https://myignite.techcommunity.microsoft.com/sessions/83502?source=sessions) by Microsoft.
 
+## Power BI tools and utilities
+
+- [List of free tools](https://www.sqlbi.com/tools/) curated by SQLBI.
+- [DAX formatter](https://www.daxformatter.com/)
+- [DAX Studio](https://daxstudio.org/)
+- [Power BI Helper](https://powerbihelper.org/) by Radacad.
+- [Power BI Comparer](https://www.thebiccountant.com/2019/09/14/compare-power-bi-files-with-power-bi-comparer-tool/) by the BIccountant. 
+- [ALM Toolkit](http://alm-toolkit.com/) by Christian Wade.<br>
+
 ## Migration from SQL Server Reporting Service (SSRS) to Power BI
 
 - [How to migrate an existing SQL Server Reporting Services (SSRS) instance to an instance of Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/migrate-report-server) by Microsoft
