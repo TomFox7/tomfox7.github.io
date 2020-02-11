@@ -69,6 +69,8 @@
     
 
 - 2017 Customer Attribution Analysis [explained by Sam McKay.](https://blog.enterprisedna.co/customer-attrition-analysis-advanced-dax-in-power-bi/)
+
+-2020-02 More measures for Customer Retention [explained by Reza Rad](https://radacad.com/customer-retention-in-power-bi-dax-measures)
   
 ### Return to: 
 [Top](#customer-churn-dax-pattern)
