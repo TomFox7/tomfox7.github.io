@@ -13,6 +13,8 @@ Presented by Tom Fox on 18-Feb-2020 at the London PowerBI User Group [(see more 
 <iframe id="iframe-ge" title="GeneralElectionsAnalysis" importance="low" allow="fullscreen" 
 src="https://app.powerbi.com/view?r="></iframe>
 
+[test](https://app.powerbi.com/view?r=){:target="_blank" rel="noopener noreferrer"}
+
 ### Return to: 
 [Top](#uk-general-elections-data-analysis-in-power-bi)  
 [Home](/.)
