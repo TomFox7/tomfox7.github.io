@@ -24,11 +24,21 @@ Agile software engineering methods, including formal testing and DevOps automati
 - [Power BI Comparer](https://www.thebiccountant.com/2019/09/14/compare-power-bi-files-with-power-bi-comparer-tool/) by the BIccountant. 
 - [ALM Toolkit](http://alm-toolkit.com/) by Christian Wade.<br>
 
-## Migration from SQL Server Reporting Service (SSRS) to Power BI
+## Migration from SQL Server Reporting Service (SSRS) to Power BI Service or Report Server
 
-- [How to migrate an existing SQL Server Reporting Services (SSRS) instance to an instance of Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/migrate-report-server) by Microsoft
+- [2091-01 How to migrate an existing SQL Server Reporting Services (SSRS) instance to an instance of Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/migrate-report-server) by Microsoft
+- [2019-10 A tool on GitHub supports migrating content from SQL Server Reporting Services to Power BI Service](https://github.com/microsoft/RdlMigration)
 - [How to migrate existing native SSRS Reports to Power BI Report Server](https://www.c-sharpcorner.com/article/migrate-existing-native-ssrs-reports-to-power-bi-report-server/) by Dhruvin Shah
-- more to follow in due course.
+
+### Power BI Paginated Reports and Power BI Report Builder
+
+Power BI paginated reports are optimized for printing, or PDF generation. They are ideal for operational reports, like sales invoices.  In contrast, Power BI reports are optimized for exploration and interactivity. 
+
+- [When to use paginated reports in Power BI, by Microsoft](https://docs.microsoft.com/en-gb/power-bi/guidance/report-paginated-or-power-bi)
+- [What are paginated reports in Power BI Premium? by Microsoft](https://docs.microsoft.com/en-us/power-bi/paginated-reports-report-builder-power-bi)
+- [2019-04 Power BI Paginated Report Builder desktop tool by Microsoft](https://powerbi.microsoft.com/en-us/blog/power-bi-paginated-report-builder-now-available/)
+- [List of Microsoft blogs on Power BI Report Builder](https://powerbi.microsoft.com/en-us/blog/tag/power-bi-report-builder/)
 
 ### Return to: 
-[Top](#resources-and-standards-for-power-bi-deployment-and-projects)  [Home](https://beyondpowerbi.com/)
+[Top](#resources-and-standards-for-power-bi-deployment-and-projects) <br>
+[Home](https://beyondpowerbi.com/)
