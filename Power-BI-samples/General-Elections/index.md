@@ -3,7 +3,7 @@
 ## UK General Elections data analysis in Power BI
 Presented by Tom Fox on 18-Feb-2020 at the London PowerBI User Group [(see more on meetup.com)](https://www.meetup.com/London-PUG/events/268422933/)
 
-View/download the presentation slides [here](https://beyondpowerbi.com/downloads/2020-02-18 General Elections by Tom Fox at PBI-UG London.pdf).
+View/download the presentation slides [here](https://beyondpowerbi.com/downloads/2020-02-18_General_Elections_by_Tom_Fox_at_PBI-UG_London.pdf).
 
 Source data from researchbriefings.parliament.uk:
 - [from here for 2019](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-8749)
