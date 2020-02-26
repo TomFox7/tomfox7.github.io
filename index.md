@@ -10,15 +10,20 @@ All usage of this site and links to other sites is at your own discretion and ri
 
 - **[GapMinder data presented in Power BI](https://beyondpowerbi.com/Power-BI-samples/GapMinder/)** <br>
   Compelling visualisations encourage fact-based decisions. <br>
-  See a Power BI sample using gapminder.org/data/ and the [Roslings' book 'Factfulness'](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think).  
+  See a Power BI sample using gapminder.org/data/ and the [Roslings' book 'Factfulness'](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think). 
+  
 - **[UK General Elections data presented in Power BI](https://beyondpowerbi.com/Power-BI-samples/General-Elections/)** <br>
   A presentation given at the London Power BI User Group meeting.  
+  
 - **[Power BI Design and Visualizations](https://beyondpowerbi.com/Power-BI-Design-and-Visualizations/)** for purpose-driven visualizations.  
   A report with a clear message starts with good design; a 'visual vocabulary' helps to select the most appropriate visualizations, once the design intent is known. 
+  
 - **[DAX patterns and Data Models illustrated in Power BI](https://beyondpowerbi.com/Power-BI-samples-DAX-patterns/)**<br>
 A pattern is a general reusable solution to a commonly occurring problem - a route to productivity and reliability.  These examples I adapted into Power BI from Excel examples made by others.
+  
 - **[Power BI in the Power Platform](https://beyondpowerbi.com/Power-Platform/)**<br>
   Power BI is part of the Power Platform comprising: Power Apps, Power BI, Power Automate, AI Builder and Power Virtual Agents.  These can all connect with native connectors to external data or to the Microsoft Common Data Service for internal data.
+  
 - **[Power BI Integrations](https://beyondpowerbi.com/Power-BI-integrations/)**<br>
   Artistic reports alone would mislead if based on wrong or late data.  <br>
   "Beyond Power BI" we need appropriate upstream data sources and downstream processes for decision-taking, implementation and review/feedback loops.  See Power BI in the context of the Azure Data Platform.
