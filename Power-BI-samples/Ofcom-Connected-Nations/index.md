@@ -3,8 +3,10 @@
 ## UK Ofcom Connected Nations data analysis in Power BI
 Presented by Tom Fox on 04-Mar-2020 at the London PowerBI User Group [(see more on Meetup.com)](https://www.meetup.com/London-PUG/events/268853440/)
 
+Premises types and locations
 ![Premises types and locations](https://beyondpowerbi.com/Power-BI-samples/Ofcom-Connected-Nations/UK-Ofcom-Premises-types-and-locations.png)
 
+Rural-broadband-availability
 ![Rural-broadband-availability](https://beyondpowerbi.com/Power-BI-samples/Ofcom-Connected-Nations/UK-Ofcom-Rural-broadband-availability.png)
 
 
