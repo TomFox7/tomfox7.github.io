@@ -57,5 +57,5 @@ The menu on the front page (and the return Home buttons) use Bookmarks.  The Reg
 
 ### Return to: 
 [Top](#gapminder-data-presented-in-power-bi) <br>
-[Other Power BI samples](/Power-BI-samples/) 
+[Other Power BI samples](/Power-BI-samples/) <br>
 [Home](https://beyondpowerbi.com/)
