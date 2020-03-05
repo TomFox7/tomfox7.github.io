@@ -20,5 +20,6 @@ Source data from ofcom.org.uk:
 
 ### Return to: 
 [Top](#uk-ofcom-connected-nations-data-analysis-in-power-bi)  
-[Overview of DAX patterns](/Power-BI-samples-DAX-patterns)  
+[Other Power BI samples](/Power-BI-samples/)  
+[Overview of DAX patterns](/Power-BI-samples-DAX-patterns/)  
 [Home](/.)
