@@ -3,6 +3,9 @@
 ## UK General Elections data analysis in Power BI
 Presented by Tom Fox on 18-Feb-2020 at the London PowerBI User Group [(see more on meetup.com)](https://www.meetup.com/London-PUG/events/268422933/)
 
+Selection of TopN with Others and Dynamic Measures
+![Selection of TopN with Others and Dynamic Measures](https://beyondpowerbi.com/Power-BI-samples/General-Elections/TopN+Dynamic-measures_charts.png)
+
 View/download the presentation slides [here](https://beyondpowerbi.com/downloads/2020-02-18_General_Elections_by_Tom_Fox_at_PBI-UG_London.pdf).
 
 Source data from researchbriefings.parliament.uk:
