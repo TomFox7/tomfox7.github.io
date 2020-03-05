@@ -13,3 +13,7 @@
 - **[Another coming soon](https://beyondpowerbi.com/Power-BI-samples/)** <br>
   A demonstration of ...  
 
+### Return to: 
+[Top](#beyond-power-bi-some-amazing-demonstrations)  
+[Overview of DAX patterns](/Power-BI-samples-DAX-patterns)  
+[Home](/.)
