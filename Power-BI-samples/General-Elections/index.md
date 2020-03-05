@@ -15,5 +15,6 @@ Source data from researchbriefings.parliament.uk:
 
 ### Return to: 
 [Top](#uk-general-elections-data-analysis-in-power-bi)  
+[Other Power BI samples](/Power-BI-samples/)  
 [Overview of DAX patterns](/Power-BI-samples-DAX-patterns)  
 [Home](/.)
