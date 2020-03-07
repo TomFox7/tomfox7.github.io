@@ -4,7 +4,7 @@ description: Power BI design, DAX patterns, Data Models, Azure Data Analytics
 # tagline: A short description used as part of the title tag of the home page like 'title | tagline'.
 google_analytics: UA-47157029-2
 url: "https://beyondpowerbi.com" # the base hostname & protocol for your site
-lang: en_GB # default is en_US
+lang: en-GB # default is en-US or just en
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
