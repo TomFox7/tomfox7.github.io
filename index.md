@@ -14,6 +14,8 @@ All usage of this site and links to other sites is at your own discretion and ri
   
 - **[UK Ofcom 'Connected Nations' data presented in Power BI](https://beyondpowerbi.com/Power-BI-samples/Ofcom-Connected-Nations/)** <br> 
 
+- **[COVID-19 coronavirus daily updates in Power BI](https://beyondpowerbi.com/Power-BI-samples/covid-19-coronavirus-daily-updates/)** <br>
+
 ## Beyond Power BI: Design of Power BI solutions
 
 - **[Power BI Design and Visualizations](https://beyondpowerbi.com/Power-BI-Design-and-Visualizations/)** for purpose-driven visualizations.  
