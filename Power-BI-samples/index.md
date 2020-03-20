@@ -10,6 +10,9 @@
 - **[UK Ofcom 'Connected Nations' data presented in Power BI](https://beyondpowerbi.com/Power-BI-samples/Ofcom-Connected-Nations/)** <br>
   A presentation given at the London Power BI User Group meeting in March 2020.  
 
+- **[Covid-19 corona virus daily updates](https://beyondpowerbi.com/Power-BI-samples/covid-19-coronavirus-daily-updates/)** <br>
+  An interactive analysis by Paul Turley and others: link to interactive Power BI report.
+
 - **[Another coming soon](https://beyondpowerbi.com/Power-BI-samples/)** <br>
   A demonstration of ...  
 
