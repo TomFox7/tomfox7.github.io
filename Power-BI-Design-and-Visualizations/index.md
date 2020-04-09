@@ -11,7 +11,7 @@ The design purpose should guide the selection of which Power BI visuals to use.
 - [The Extreme Presentation Method by Andrew Abela](https://extremepresentation.com/design/) is a 10-step guide to creating  communications that drive action.
   - [The Extreme Presentation Slide Chooser](https://extremepresentation.typepad.com/blog/2015/01/announcing-the-slide-chooser.html)  This guide helps to identify the intent of the message and to choose slides accordingly.  The primary choice is whether a slide is intended to *explain* or *recommend* and the secondary choice is Where, When, Who, How, What, or Why.
   - The Extreme Presentation Chart Chooser is a selection guide according to the purpose of the chart visual: relationship, comparison, distribution or composition.   
-    [![The Extreme Presentation Chart Chooser](ExtremePresentationChartChooser.png "click to follow link")](https://extremepresentation.com/design/7-charts/)  (click the image to follow link)
+    [![The Extreme Presentation Chart Chooser](ExtremePresentationChartChooser.jpg "click to follow link")](https://extremepresentation.com/design/7-charts/)  (click the image to follow link)
 
 
 ### Power BI bookmarks
