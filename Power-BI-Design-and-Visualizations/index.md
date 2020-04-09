@@ -10,7 +10,8 @@ The design purpose should guide the selection of which Power BI visuals to use.
 
 - [The Extreme Presentation Method by Andrew Abela](https://extremepresentation.com/design/) is a 10-step guide to creating  communications that drive action.
   - [The Extreme Presentation Slide Chooser](https://extremepresentation.typepad.com/blog/2015/01/announcing-the-slide-chooser.html)  This guide helps to identify the intent of the message and to choose slides accordingly.  The primary choice is whether a slide is intended to *explain* or *recommend* and the secondary choice is Where, When, Who, How, What, or Why.
-  - [The Extreme Presentation Chart Chooser](https://extremepresentation.com/design/7-charts/) is a selection guide according to the purpose of the chart visual: relationship, comparison, distribution or composition.
+  - The Extreme Presentation Chart Chooser is a selection guide according to the purpose of the chart visual: relationship, comparison, distribution or composition.   
+    [![The Extreme Presentation Chart Chooser](ExtremePresentationChartChooser.png "click to follow link")](https://extremepresentation.com/design/7-charts/)  (click the image to follow link)
 
 
 ### Power BI bookmarks
@@ -30,7 +31,7 @@ The design purpose should guide the selection of which Power BI visuals to use.
   - [FT Visual vocabulary Power BI edition by SqlJason.com](http://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html)
   
   [FT-vv-pbix]: https://app.powerbi.com/view?r=eyJrIjoiMDA4YWIwZWEtMDE3ZS00YmFhLWE5YWMtODFlZWEzNTU1ODNiIiwidCI6IjZjMGE1YjljLTA4OWEtNDk0ZS1iMDVlLTcxNjEwOTgyOTA0NyIsImMiOjF9
-  - [Link to full-screen PBI online version][FT-vv-pbix]
+  - [Link to full-screen PBI online version][FT-vv-pbix]  (click the image to follow link)
   
   [![Visual vocabulary in Power BI](FT-visual-vocabulary-in-Power-BI-by-SqlJason.gif)][FT-vv-pbix]
 
