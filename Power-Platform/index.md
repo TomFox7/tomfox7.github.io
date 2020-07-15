@@ -6,6 +6,9 @@
 - [Power Automate (was Flow)](https://flow.microsoft.com/en-us/)
 - [Power Virtual Agents](https://powervirtualagents.microsoft.com/en-us/)
 
+### Microsoft Power Platform release wave plans
+- [Microsoft Power Platform: 2020 release wave 1 plan](https://docs.microsoft.com/en-gb/power-platform-release-plan/2020wave1/)
+- [Microsoft Power Platform: 2020 release wave 2 plan](https://docs.microsoft.com/en-gb/power-platform-release-plan/2020wave2/)
 
 ### Common Data Service for Power Apps/Automate/BI
 
