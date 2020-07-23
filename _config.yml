@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Power BI and Azure Data Platform
-description: Power BI design, DAX patterns, Data Models, Azure Data Analytics
+description: Power BI design, DAX patterns, Power Query, M, Data Models, Azure Data Analytics
 # tagline: A short description used as part of the title tag of the home page like 'title | tagline'.
 google_analytics: UA-47157029-2
 url: "https://beyondpowerbi.com" # the base hostname & protocol for your site
